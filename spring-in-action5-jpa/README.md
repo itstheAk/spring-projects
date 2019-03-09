@@ -1,2 +1,2 @@
 # taco-cloud
-Spring In Action Workbook
+Spring In Action Workbook for JPA
