@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
-Implementation-Title: taco-cloud
+Implementation-Title: jpa-workbook
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: anandhakrishnan
-Implementation-Vendor-Id: sia
+Implementation-Vendor-Id: com.workbook
 Build-Jdk: 1.8.0_191
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/taco-cloud
+ ot-starter-parent/jpa-workbook
 Created-By: Maven Integration for Eclipse
 
